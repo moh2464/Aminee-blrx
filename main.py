@@ -1,5 +1,4 @@
-"""
-Free Fire Bot - Team Joining and Match Management
+"""Free Fire Bot - Team Joining and Match Management
 Author: moh2464
 Description: Automatic bot for joining teams and managing matches in Free Fire
 """
